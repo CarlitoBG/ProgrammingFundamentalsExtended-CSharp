@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MultiplyEvensByOdds", "01.MultiplyEvensByOdds\01.MultiplyEvensByOdds.csproj", "{737D6322-259E-482B-BCB1-0491BD72F1E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.HolidaysBetweenTwoDates", "02.HolidaysBetweenTwoDates\02.HolidaysBetweenTwoDates.csproj", "{D9C1543D-94FC-434F-8313-102E86229E9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.PriceChangeAlert", "03.PriceChangeAlert\03.PriceChangeAlert.csproj", "{C3A32C49-12B1-4B59-831C-4EC221D55592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrickyStrings", "TrickyStrings\TrickyStrings.csproj", "{087EC70C-3C8F-44ED-9E53-85775B3CB19E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleFormations", "TriangleFormations\TriangleFormations.csproj", "{540B8727-6BEB-44C2-81D0-B806F5B35687}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "Tetris\Tetris.csproj", "{AC57975C-0D3B-4059-9A7A-1E8112F44DA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiningCoins", "MiningCoins\MiningCoins.csproj", "{B7A78C3D-EB3D-4FEA-BDD2-BAA982AA73C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{737D6322-259E-482B-BCB1-0491BD72F1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737D6322-259E-482B-BCB1-0491BD72F1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737D6322-259E-482B-BCB1-0491BD72F1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737D6322-259E-482B-BCB1-0491BD72F1E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C1543D-94FC-434F-8313-102E86229E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C1543D-94FC-434F-8313-102E86229E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C1543D-94FC-434F-8313-102E86229E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C1543D-94FC-434F-8313-102E86229E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A32C49-12B1-4B59-831C-4EC221D55592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A32C49-12B1-4B59-831C-4EC221D55592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A32C49-12B1-4B59-831C-4EC221D55592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A32C49-12B1-4B59-831C-4EC221D55592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{087EC70C-3C8F-44ED-9E53-85775B3CB19E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087EC70C-3C8F-44ED-9E53-85775B3CB19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087EC70C-3C8F-44ED-9E53-85775B3CB19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087EC70C-3C8F-44ED-9E53-85775B3CB19E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540B8727-6BEB-44C2-81D0-B806F5B35687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540B8727-6BEB-44C2-81D0-B806F5B35687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540B8727-6BEB-44C2-81D0-B806F5B35687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540B8727-6BEB-44C2-81D0-B806F5B35687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC57975C-0D3B-4059-9A7A-1E8112F44DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC57975C-0D3B-4059-9A7A-1E8112F44DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC57975C-0D3B-4059-9A7A-1E8112F44DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC57975C-0D3B-4059-9A7A-1E8112F44DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7A78C3D-EB3D-4FEA-BDD2-BAA982AA73C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A78C3D-EB3D-4FEA-BDD2-BAA982AA73C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A78C3D-EB3D-4FEA-BDD2-BAA982AA73C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A78C3D-EB3D-4FEA-BDD2-BAA982AA73C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
